@@ -1,1 +1,13 @@
-satish
+
+
+                                  Git and github
+Git configuring  >> git config –global user.name “ my name “
+Git configuring  >> git config –global user.email “ techsatish2024@gmail.com
+Git config –list
+                                     clone & status (clone commend is github to pc)
+Clone >> cloning a repository on oure locale machine
+Git clone <git hub code>
+Status display the status of the code
+Git status
+Cd (
+
